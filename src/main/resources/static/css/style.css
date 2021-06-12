@@ -1,0 +1,6 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	column-count: 4;
+	column-rule-style: solid;
+}
