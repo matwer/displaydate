@@ -11,6 +11,6 @@
 	<script type="text/javascript" src="js/date.js"></script>
 </head>
 <body>
-	<h1><c:out value="${date}"/></h1>
+	<h1 class=date><c:out value="${date}"/></h1>
 </body>
 </html>

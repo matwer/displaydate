@@ -4,3 +4,11 @@
 	column-count: 4;
 	column-rule-style: solid;
 }
+
+.date {
+	color:blue;
+}
+
+.time {
+	color: green;
+}

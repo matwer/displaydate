@@ -11,6 +11,6 @@
 	<script type="text/javascript" src="js/time.js"></script>
 </head>
 <body>
-	<h1><c:out value="${time}"/></h1>
+	<h1 class=time><c:out value="${time}"/></h1>
 </body>
 </html>
